@@ -40,7 +40,7 @@ h2 {
 }
 
 h3 {
-  z-index;
+  z-index: 1000;
   float: left;
   margin-left: 300;
 }
